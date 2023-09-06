@@ -173,7 +173,7 @@ function convertToUpperCase(str) {
  * @return {array}
  *
  * @example
- *   'angus.young@gmail.com;brian.johnson@hotmail.com;bon.scott@yahoo.com'
+ *   'angus.young@gmAail.com;brian.johnson@hotmail.com;bon.scott@yahoo.com'
  *   => [
  *      'angus.young@gmail.com',
  *      'brian.johnson@hotmail.com',
